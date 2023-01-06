@@ -1,2 +1,2 @@
-# Windows11-Desktop-Switch-Animation
-Windows 11 Virtual Desktop Switch Animation.
+Run from file location:
+example: .\script.ps1
