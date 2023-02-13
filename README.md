@@ -1,12 +1,17 @@
-# Windows-11-Virtual-desktop-animation
-## App will automatically start at windows startup
+# Windows 11 Virtual Desktop Animation
 
-## 1. Requirements
+App will automatically start at windows startup
+![opengl](/screenshot/0.png)
+
+
+## 1. License:
+- Resources: https://github.com/sanketkheni01/Windows-11-Virtual-desktop-animation/releases
+
+
+## 2. Requirements
 - .NET
 - How to install .NET: https://www.youtube.com/watch?v=_pG-bgh4W7E
 
-## 2. Download here Windows 11 Virtual Desktop here:
-- Resources: https://github.com/sanketkheni01/Windows-11-Virtual-desktop-animation/releases
 
 ## 3. KeyBoard Shortcuts
 
